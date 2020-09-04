@@ -7,6 +7,6 @@
     "convert-array-to-csv": "^1.0.9",
     "date-fns": "^2.9.0",
     "handlebars": "^4.7.3",
-    "papaparse": "^5.1.1"
+    "papaparse": "^5.2.0"
   }
 }
